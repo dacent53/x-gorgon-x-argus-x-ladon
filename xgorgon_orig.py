@@ -4,9 +4,9 @@ import json
 from types import SimpleNamespace
 
 ### contact me
-**Contact for api :** [https://t.me/alethino](https://t.me/alethino)
+**Contact for api :** [https://t.me/dacent53](https://t.me/dacent53)
   
-## telegram: @alethino
+## telegram: @dacent53
 server = "http://ip:port/api/xSign"
 
 currentTime = time.time()
